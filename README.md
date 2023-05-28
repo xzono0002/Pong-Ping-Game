@@ -6,6 +6,7 @@ Pong Ping is a game developed by the Team Wizzard. It follows the general rules 
 
 The **Team Wizzard** consists of **6 individuals**:
 * Sophia Granado
+* Jensen Sangalang
 * Anna Marie German
 * Rochelle Cruz
 * Jamaica Centeno
